@@ -1,8 +1,8 @@
 pragma solidity ^0.7.0;
 
 contract Token {
-    string public name = "My Hardhat Token";
-    string public symbol = "MHT";
+    string public name = "My First Token";
+    string public symbol = "MFT";
     uint256 public totalSupply = 1000000;
     address public owner;
 
